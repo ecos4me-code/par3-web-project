@@ -222,7 +222,7 @@ body { font-family: 'Pretendard', -apple-system, sans-serif; background: #ffffff
 }
 .ja_card_field:first-child {
   border-right: 1px solid #eceef1;
-  flex: 0 0 160px;
+  flex: 0 0 160px; 
   width: 160px;
 }
 

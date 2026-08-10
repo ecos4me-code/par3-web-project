@@ -448,11 +448,11 @@ body { font-family: 'Pretendard', -apple-system, sans-serif; background: #ffffff
   align-items: center;
   gap: 4px;
 }
-.jt_writer_avatar {
+/* .jt_writer_avatar {
   width: 26px;
   height: 26px;
   border-radius: 50%;
-}
+} */
 .jt_writer_name {
   font-size: 12px;
   font-weight: 500;
